@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nikhil-099
+- 👋 Hi, I’m Nikhil Kumar Sahoo
 - 👀 I’m interested in Data Science, Data Analysis, Machine Learning, Blockchain.
 - 🌱 I’m currently learning Data Science, Tableau, Machine Learning.
 - 💞️ I’m looking to collaborate on Data Science and Data Analysis Project.
